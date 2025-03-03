@@ -1,1 +1,2 @@
 # Simon-Says-Game
+The Simon Says game is a classic memory game that challenges players to repeat a sequence of colors. The game starts with a simple sequence, and as the player successfully repeats the sequence, it becomes progressively longer and more complex. The objective is to remember and replicate the sequence correctly. If the player makes a mistake, the game ends, and they can choose to play again.
