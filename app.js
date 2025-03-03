@@ -50,7 +50,7 @@ function checkAns(idx){
     }
         else{
             score=(level-1)*10;
-            h2.innerHTML=`Game Over! Your score was <b>${score}</b> <br>Press any key to start.`;
+            h2.innerHTML=`Game Over! Your score was <b>${score}</b> <br>Click anywhere to start.`;
             document.querySelector("body").style.backgroundColor="red";
             setTimeout(function(){
                 document.querySelector("body").style.backgroundColor="white";
